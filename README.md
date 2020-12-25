@@ -7,7 +7,5 @@ The project implmented the pricing formulas in Heston model and conduceted calib
 - Result:
     <img src="./image/result.png">
 
-All work and comment is in the graded(93/100) [report](report_graded.ipynb) or [report viewed at nbviewer](
-https://nbviewer.jupyter.org/github/Jace-Yang/voliatility-smile-curve-generation/report_graded.ipynb)
-
+All work and comment is in the graded(93/100) [report](report_graded.ipynb).
 
